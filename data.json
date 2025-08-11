@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Javohir",
+        "age": 18
+    },
+    {
+        "id": 2,
+        "name": "Karamatullox",
+        "age": 25
+    },
+    {
+        "id": 3,
+        "name": "Boxodir",
+        "age": 13
+    },
+    {
+        "id": 4,
+        "name": "Bekmirza",
+        "age": 32
+    },
+    {
+        "id": 5,
+        "name": "Sanjar",
+        "age": 23
+    },
+    {
+        "id": 6,
+        "name": "Gulom",
+        "age": 33
+    }
+]
